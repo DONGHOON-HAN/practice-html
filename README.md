@@ -13,4 +13,3 @@ Chrome에 최적화 시킨 프로젝트입니다. 아래 제시된
 
 
 ## Ref.
-.gitignore
